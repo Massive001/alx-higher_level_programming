@@ -1,0 +1,6 @@
+import math
+"""This is a programme to calculate the square of real number using loop (For-inrange)
+"""
+n = int(input("Enter your Value: "))
+for i in range(n):
+    print(i*i)
